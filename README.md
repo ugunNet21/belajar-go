@@ -1,5 +1,9 @@
 # Belajar Go
 
+## Menjalankan API Sederhana
+![Gambar Runninf API Sederhana](https://raw.githubusercontent.com/ugunNet21/belajar-go/master/img/menjalankan%20api%20simpel.png)
+
+
 ## Gambar Piramid
 
 ![Gambar Piramid](https://raw.githubusercontent.com/ugunNet21/belajar-go/master/img/latihan%20go.png)
