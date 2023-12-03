@@ -14,3 +14,9 @@ Silahkan clone repository proyek ini menggunakan perintah:
 
 ```bash
 git clone https://github.com/ugunNet21/belajar-go.git
+
+### 2. Install Go
+
+```bash
+https://golang.org/dl/
+
