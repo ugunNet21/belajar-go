@@ -4,6 +4,10 @@
 
 ![Gambar Piramid](https://raw.githubusercontent.com/ugunNet21/belajar-go/master/img/latihan%20go.png)
 
+## Gambar Web Server
+![Gambar Web Server](https://raw.githubusercontent.com/ugunNet21/belajar-go/master/img/web%20server%20berjalan.png)
+
+
 ## Memulai Proyek Go
 
 Berikut adalah langkah-langkah untuk memulai belajar dan menjalankan proyek Go:
